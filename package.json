@@ -1,0 +1,5 @@
+{
+    "name": "coredns-mysql",
+    "version": "1.0.0",
+    "dockerNamespace": "cloudops"
+}
